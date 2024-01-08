@@ -14,6 +14,7 @@
     console.log(data, "in decimal to binary:", data.toString(2));
     console.log(data, "in decimal to octal:", data.toString(8));
     console.log(data, "in decimal to hex:", data.toString(16));
-    
+
+
 
 
