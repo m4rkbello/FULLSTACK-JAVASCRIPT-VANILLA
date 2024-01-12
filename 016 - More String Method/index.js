@@ -33,8 +33,6 @@ console.log(data.repeat(5));
 //split method iyang e convert to array data per word
 console.log(content.split(" "))
 
-//search method
-console.log(content.search(""))
 
 
 
